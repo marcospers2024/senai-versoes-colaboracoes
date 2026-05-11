@@ -10,3 +10,10 @@ exemplo
 
 lembrei do comando: git status
 
+Alteração teste
+
+
+
+lembrei do comando: commit
+
+
